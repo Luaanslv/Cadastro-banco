@@ -1,4 +1,4 @@
-# Cadastro-banco
+# Cadastro de conta no banco
 
 Projeto para criar uma conta no banco, colocando as seguintes informações:
 
