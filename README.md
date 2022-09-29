@@ -5,8 +5,6 @@ Projeto para criar uma conta no banco, colocando as seguintes informações:
 - O ID da conta.
 - Nome completo (Caso mude de nome e sobrenome, podera ser mudado no futuro)
 - Deposito inicial (Não é obrigatorio)
-- A cada saque o banco recebe 5 reais.
-
 
 ## O que aprendi!
 
